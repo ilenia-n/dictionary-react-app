@@ -1,3 +1,6 @@
+A dictionary app built in React with two API integrations using Axios. The first one is with dictionaryapi.dev for the word meaning, and the second one is with the Pexels API to enrich the definitions with related photos. I used Canva to create the graphics for the logo and the 404 error page.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
