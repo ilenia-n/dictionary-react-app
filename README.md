@@ -1,6 +1,5 @@
 
 # React Dictionary APP
-=======
 
 A dictionary app built in React with two API integrations using Axios. The first one is with dictionaryapi.dev for the word meaning, and the second one is with the Pexels API to enrich the definitions with related photos. 
 
@@ -15,7 +14,7 @@ Try it out at https://boisterous-valkyrie-a98c03.netlify.app/
 # Credits and Notes
 
 - Create-react-app on npm: https://www.npmjs.com/package/create-react-app
-- Dictionary data is provided by dictionaryapi.dev
+- Dictionary data is provided by https://dictionaryapi.dev/
 - Photo data is provided by https://www.pexels.com/api/
 - Request to API made via https://github.com/axios/axios
 - This app is my final project of SheCodes React
