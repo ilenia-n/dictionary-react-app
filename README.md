@@ -1,4 +1,6 @@
+
 # React Dictionary APP
+=======
 
 A dictionary app built in React with two API integrations using Axios. The first one is with dictionaryapi.dev for the word meaning, and the second one is with the Pexels API to enrich the definitions with related photos. 
 
